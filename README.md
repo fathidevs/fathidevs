@@ -1,4 +1,3 @@
-<br><br>
 
 <img align="center" alt="banner" width="100%" src="https://github.com/fathidevs/fathidevs/blob/main/img/banner.png" >
 <img align="left" alt="streak card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight">
