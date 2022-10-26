@@ -4,7 +4,7 @@
 <p align="center">
 <p>My stats</p>
 <img align="left" alt="streak card" height="400" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight">
-<img align="left" alt="stat card" height="400" width="45%" src="https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight">
+<img align="right" alt="stat card" height="400" width="45%" src="https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight">
 </p>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight)](https://git.io/streak-stats) -->
