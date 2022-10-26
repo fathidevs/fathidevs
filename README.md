@@ -1,5 +1,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathidevs)](https://git.io/streak-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fathidevs&repo=safecart&theme=tokyonight)](https://github.com/fathidevs/SafeCart)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Hi there 👋 -->
