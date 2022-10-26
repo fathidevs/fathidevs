@@ -1,6 +1,6 @@
 
 <img align="center" alt="banner" width="100%" src="https://github.com/fathidevs/fathidevs/blob/main/img/banner.png" >
-<br><br>
+<!-- <br><br> -->
 <img align="left" alt="streak card"  src="https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight">
 <img align="right" alt="stat card"  src="https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight">
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight)](https://git.io/streak-stats) -->
