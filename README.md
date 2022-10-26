@@ -1,16 +1,3 @@
-### Hello World  👋👾
-### Welcome to my Kingdom 💫✨
-
-
-<!--<img align="right" height="380" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />--->
-
-
-
-<img src="https://komarev.com/ghpvc/?username=fadouaabdoul&label=Profile%20views&color=0e75b6&style=flat">
-
-"Being the detective in a crime scene, meanwhile being the murderer."
-
-"Your skills don't improve consistently but in steps." 
 
 
 <img align="left" alt= "streak stat card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fadouaabdoul&theme=radical"/>
