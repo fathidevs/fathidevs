@@ -1,5 +1,7 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="streak card" height="200px" width=200px src="https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight">
+<img alt="stat card" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight">
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight)](https://git.io/streak-stats) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fathidevs&repo=safecart&theme=tokyonight)](https://github.com/fathidevs/SafeCart) -->
 
