@@ -1,8 +1,10 @@
 
 <img align="center" alt="banner" width="100%" src="https://github.com/fathidevs/fathidevs/blob/main/img/banner.png" >
 <!-- <br><br> -->
+<div align="center">
 <img align="left" alt="streak card" height="400" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight">
 <img  alt="stat card" height="400" width="45%" src="https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight">
+</div>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight)](https://git.io/streak-stats) -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
