@@ -9,7 +9,7 @@
 
 <img alt="stat card" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight">
 
-<img alt="top languages used" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight">
+<img alt="top languages used" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight">
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight)](https://git.io/streak-stats) -->
