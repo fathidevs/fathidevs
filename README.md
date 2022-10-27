@@ -5,7 +5,7 @@
 <p align="center">
 <h2>My stats</h2>
 <img align="left" alt="streak card" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight">
-<div style="margin:100px">
+<div height="500px">
 <img alt="stat card" width="400px" src="https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight">
   </div>
 </p>
