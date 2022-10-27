@@ -11,7 +11,7 @@
 
 <h2>My stack</h2>
 <div align="center">
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
