@@ -4,7 +4,7 @@
 
 <h2>My stats</h2>
 
-<img align="left" alt="streak card" height="150px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight">
+<img alt="streak card" align="left" height="150px" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight">
 
 <img alt="stat card" height="150px" width="400" src="https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight">
 <br>
