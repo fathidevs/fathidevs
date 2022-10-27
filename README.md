@@ -10,7 +10,7 @@
 <br>
 
 <h2>My tech stack</h2>
-<div align="center">
+<div align="left">
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -32,7 +32,7 @@
 <br>
 
 <h2>My design stack</h2>
-<div align="center">
+<div align="left">
   
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
@@ -43,7 +43,7 @@
 <br>
 
 <h2>My favorit IDEs</h2>
-<div align="center">
+<div align="left">
   
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  
@@ -52,7 +52,7 @@
 <br>
 
 <h2>Currently hacking on</h2>
-<div align="center">
+<div align="left">
   
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">  
