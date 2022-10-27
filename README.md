@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   
 </div>
-<img alt="top languages used" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight">
+<!-- <img alt="top languages used" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight"> -->
 <br>
 
 <h2>My design stack</h2>
@@ -47,6 +47,15 @@
   
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  
+  
+</div>
+<br>
+
+<h2>Currently hacking on</h2>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">  
   
 </div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
