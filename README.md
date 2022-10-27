@@ -5,9 +5,9 @@
 
 <h2>My stats</h2>
 
-<img align="left" alt="streak card" height="100px"  src="https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight">
+<img align="left" alt="streak card" height="100px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight">
 
-<img alt="stat card" height="100px"  src="https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight">
+<img alt="stat card" height="100px" width="400px" src="https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight">
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight)](https://git.io/streak-stats) -->
