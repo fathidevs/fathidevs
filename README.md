@@ -1,7 +1,6 @@
 
 
 <img align="center" alt="banner" width="100%" src="https://github.com/fathidevs/fathidevs/blob/main/img/banner.png" >
-<!-- <br><br> -->
 
 <h2>My stats</h2>
 
@@ -9,6 +8,9 @@
 
 <img alt="stat card" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=fathidevs&count_private=true&show_icons=true&theme=tokyonight">
 <br>
+
+<h2>My stack</h2>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img alt="top languages used" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight">
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
