@@ -14,6 +14,7 @@
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -28,6 +29,14 @@
   
 </div>
 <img alt="top languages used" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight">
+<br>
+
+<h2>My design stack</h2>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
+  
+</div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight)](https://git.io/streak-stats) -->
