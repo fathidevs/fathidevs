@@ -59,7 +59,10 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">  
   
 </div>
+<h1>Work in progress</h1>
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=fathidevs&repo=safecart&theme=tokyonight">
+</div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathidevs&theme=tokyonight)](https://git.io/streak-stats) -->
