@@ -34,7 +34,7 @@
 <h2>My design stack</h2>
 <div align="center">
   
-  <img src="https://aleen42.github.io/badges/src/photoshop.svg">  
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   
 </div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathidevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
